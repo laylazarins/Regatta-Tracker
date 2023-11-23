@@ -1,6 +1,5 @@
 # Sailing Regatta Tracker
 
-## Description
 
 An application to simplify recording sailing
 race results, manage competitors, store sets of 
