@@ -1,0 +1,15 @@
+{
+    "name": "a",
+    "participants": [
+        {
+            "timesList": [3661],
+            "overallScore": 1,
+            "name": "b"
+        },
+        {
+            "timesList": [7322],
+            "overallScore": 2,
+            "name": "c"
+        }
+    ]
+}

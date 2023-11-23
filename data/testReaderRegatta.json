@@ -1,0 +1,15 @@
+{
+    "name": "Extra Cool Regatta",
+    "participants": [
+        {
+            "timesList": [3661],
+            "overallScore": 1,
+            "name": "UBC"
+        },
+        {
+            "timesList": [7322],
+            "overallScore": 2,
+            "name": "SFU"
+        }
+    ]
+}
